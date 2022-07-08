@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3555fab1-8ee4-4875-8bb9-6e14d4eb19e1" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/assets/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/css/bantuan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/layout/bantuan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bantuan/layout/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/css/daftar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/layout/daftar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daftar/layout/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/css/masuk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/layout/masuk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masuk/layout/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/css/personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/layout/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/layout/personal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beranda/layout/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/beranda/layout/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/berita/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/layout/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/berita/layout/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoax/layout/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/hoax/layout/nav.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1mzmSc1N9PMJEa4VnmCWPgyzq3j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Documents\Coding\GatotKaca\berita" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3555fab1-8ee4-4875-8bb9-6e14d4eb19e1" name="Default Changelist" comment="" />
+      <created>1610504794510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610504794510</updated>
+      <workItem from="1610504795606" duration="14902000" />
+      <workItem from="1610532552046" duration="1611000" />
+      <workItem from="1610534188369" duration="2141000" />
+      <workItem from="1610536465840" duration="599000" />
+      <workItem from="1610616585908" duration="1608000" />
+      <workItem from="1610620135820" duration="10323000" />
+      <workItem from="1610690838288" duration="3208000" />
+      <workItem from="1610694223404" duration="413000" />
+      <workItem from="1610695044219" duration="673000" />
+      <workItem from="1610695755948" duration="8748000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1610622808224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610622808224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1610633583910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610633583910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1610633688020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610633688020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

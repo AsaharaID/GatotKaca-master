@@ -1,0 +1,86 @@
+h2{
+    padding-top: 64px;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.list-1{
+    padding-left: 400px;
+}
+
+.list-1 p{
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.list-1 p a{
+    color: gold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.list-2{
+    padding-left: 100px;
+}
+
+.list-2 .p1{
+    font-size: 30px;
+}
+
+.list-2 .p1 p{
+    font-size: 20px;
+    font-family: "Segoe UI";
+}
+
+.list-2 .p2{
+    font-size: 30px;
+}
+
+.list-2 .p2 p{
+    font-size: 20px;
+    font-family: "Segoe UI";
+}
+
+.list-2 .p2 a{
+    font-size: 20px;
+    color: gold;
+    font-family: "Segoe UI";
+    text-decoration: underline;
+}
+
+.list-2 .p3{
+    font-size: 30px;
+}
+
+.list-2 .p3 p{
+    font-size: 20px;
+    font-family: "Segoe UI";
+}
+.list-2 .p3 a{
+    font-size: 20px;
+    color: gold;
+    font-family: "Segoe UI";
+    text-decoration: underline;
+}
+
+.button{
+    margin-left: 200px;
+}
+
+.btn-default{
+    margin: 30px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+    color: white;
+    background-color: gold;
+    border-color: gold;
+}
+
+.btn-default:hover{
+    color: gold;
+    background-color: white;
+}
